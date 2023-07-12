@@ -1,0 +1,36 @@
+
+body{
+    background-image: url(/images/stars.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+p{
+    margin-top: 50px;
+    text-align: center;
+    color: beige;
+    font-size: 80px;
+    font-weight: bolder;
+}
+
+span{
+    font-size: 120px; 
+    color: chartreuse;
+}
+span:hover{
+    color: rgb(255, 0, 183);
+}
+
+a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+}
+
+a:hover{
+    color: aqua;
+    font-size: 33px;
+    text-transform: uppercase;
+}
+
